@@ -10,7 +10,8 @@ namespace m17c_ex01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Eu sou o Tiago");
+            Console.WriteLine("Ola");
+            Console.WriteLine("deu certo");
         }
     }
 }
